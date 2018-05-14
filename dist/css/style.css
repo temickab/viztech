@@ -9,4 +9,36 @@ body{
    
 }
 
+.viztech{
+    font-family: 'Concert One', cursive;
+
+}
+
+.viz{
+    color: rgb(62, 118, 209);
+    font-size: 20px;
+}
+
+#bold-v{
+    font-family: 'Faster One', cursive;
+    color: rgb(62, 118, 209);
+    font-size: 30px;
+    /* 
+font-family: 'Concert One', cursive;
+font-family: 'Alfa Slab One', cursive;
+font-family: 'Bangers', cursive;
+font-family: 'Luckiest Guy', cursive;
+font-family: 'Monoton', cursive;
+font-family: 'Faster One', cursive;
+
+ */
+}
+
+#extra-nav{
+    padding-right: 280px;
+
+}
+
+
+
 
