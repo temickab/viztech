@@ -1,13 +1,31 @@
 body{
  
 }
-
+/* JumboTron  */
 #jumtron{
     background-image: url('../img/doc.jpg');
     background-size: 100% 100%;
     height: 600px;
+    text-align: center;
    
 }
+
+.back-words{
+    background-color: white;
+    color: rgb(62, 118, 209);
+    opacity: 0.9;
+    border-radius: 25px;
+    /* padding-top: 180px; */
+}
+
+button{
+    background-color: rgb(62, 118, 209);
+    color: white;
+    border-radius: 25px;
+    height: 50px;
+    width: 120px;
+}
+/* End JumboTron */
 
 .viztech{
     font-family: 'Concert One', cursive;
@@ -37,6 +55,12 @@ font-family: 'Faster One', cursive;
 #extra-nav{
     padding-right: 280px;
 
+}
+
+
+
+.robots{
+    
 }
 
 
