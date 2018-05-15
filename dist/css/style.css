@@ -1,6 +1,4 @@
-body{
- 
-}
+
 /* JumboTron  */
 #jumtron{
     background-image: url('../img/lady.jpg');
@@ -9,10 +7,6 @@ body{
     width: 1480px;
     text-align: center;
    
-}
-
-.robots h1{
-    margin-right: 650px;
 }
 
 .back-words{
@@ -32,6 +26,22 @@ body{
     width: 300px;
     font-size: 40px;
 }
+
+button{
+    margin-right: 790px;
+    /* margin-top: 200px; */   
+}
+
+.robots{
+    margin-top: 200px;
+}
+
+.robots h1{
+    margin-right: 800px;
+    color: rgb(62, 118, 209);
+    font-family: 'Concert One', cursive;
+    font-size: 80px;
+}
 /* End JumboTron */
 
 .viztech{
@@ -42,6 +52,8 @@ body{
 .viz{
     color: rgb(62, 118, 209);
     font-size: 20px;
+    letter-spacing: 0.05em;
+    
 }
 
 #bold-v{
@@ -64,11 +76,22 @@ font-family: 'Faster One', cursive;
 
 }
 
+/* Welcome Section */
 
+.welcome{
+    text-align: center;
+    border-radius: 20px;
+    height: 100px;
+    background-color: rgb(248, 246, 246);
+    margin-left: 200px;
+    margin-right: 200px;
 
-.robots{
-    
 }
+/* End Welcome Section */
+
+
+
+
 
 
 
