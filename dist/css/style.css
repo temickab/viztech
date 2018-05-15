@@ -46,6 +46,7 @@ button{
 
 .viztech{
     font-family: 'Concert One', cursive;
+    font-size: 40px;
 
 }
 
@@ -59,7 +60,7 @@ button{
 #bold-v{
     font-family: 'Faster One', cursive;
     color: rgb(62, 118, 209);
-    font-size: 30px;
+    font-size: 50px;
     /* 
 font-family: 'Concert One', cursive;
 font-family: 'Alfa Slab One', cursive;
