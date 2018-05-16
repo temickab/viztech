@@ -86,7 +86,16 @@ font-family: 'Faster One', cursive;
     background-color: rgb(248, 246, 246);
     margin-left: 200px;
     margin-right: 200px;
+    font-family: 'Alfa Slab One', cursive;
+}
 
+.wel-viz{
+    color: rgb(62, 118, 209);
+}
+
+.mission{
+    font-family: none;
+    font-size: 20px;
 }
 /* End Welcome Section */
 
@@ -94,8 +103,21 @@ font-family: 'Faster One', cursive;
 .main-edit{
     padding-top: 35px;
 }
+.machine{
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 25px;
+    color: rgb(62, 118, 209)
+    
+}
 /* End 2 Section */
 
+/* footer */
+.sticky {
+    background-image: url('../img/robotsur.jpg');
+    width: auto;
+    max-width: 680px;
+    padding: 0 15px;
+  }
 
 
 
