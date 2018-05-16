@@ -47,6 +47,7 @@ button{
 .viztech{
     font-family: 'Concert One', cursive;
     font-size: 40px;
+    
 
 }
 
@@ -112,13 +113,14 @@ font-family: 'Faster One', cursive;
 /* End 2 Section */
 
 /* footer */
-.sticky {
-    background-image: url('../img/robotsur.jpg');
-    width: auto;
-    max-width: 680px;
-    padding: 0 15px;
-  }
-
+footer{
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
 
 
 
