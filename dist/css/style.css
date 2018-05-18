@@ -2,6 +2,13 @@
     background-image: url('../img/background.jpg');
 } */
 
+/* navbar */
+.navbar-nav{
+    margin-left: 90px;
+
+}
+/* End of navbar */
+
 
 /* JumboTron  */
 #jumtron{
