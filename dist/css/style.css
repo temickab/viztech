@@ -13,79 +13,21 @@ body{
 }
 /* End of navbar */
 
-
-#jumtron{
-    background-image: url('../img/lady.jpg');
-    background-size: cover; /*or make it 100%*/
-    background-repeat: no-repeat;
-    background-position: center;
-    height: 100vh;
-    width: 100vw; 
-    text-align: center;
-}
-
-.back-words{
-    background-color: white;
-    color: rgb(62, 118, 209);
-    opacity: 0.9;
-    border-radius: 25px;
-    /* padding-top: 180px; */
-}
-
-.get-started{
-    background-color: rgb(62, 118, 209);
-    color: white;
-    margin-top: 100px;
-    border-radius: 20px;
-    height: 80px;
-    width: 300px;
-    font-size: 40px;
-}
-
-button{
-    margin-right: 790px;
-    /* margin-top: 200px; */   
-}
-
-.robots{
-    margin-top: 90px;
-}
-
-.robots h1{
-    margin-right: 750px;
-    color: rgb(62, 118, 209);
-    font-family: 'Concert One', cursive;
-    font-size: 80px;
-}
-/* End JumboTron */
-
 .viztech{
     font-family: 'Concert One', cursive;
     font-size: 40px;
-    
-
 }
 
 .viz{
     color: rgb(62, 118, 209);
     font-size: 20px;
-    letter-spacing: 0.05em;
-    
+    letter-spacing: 0.05em; 
 }
 
 #bold-v{
     font-family: 'Faster One', cursive;
     color: rgb(62, 118, 209);
     font-size: 50px;
-    /* 
-font-family: 'Concert One', cursive;
-font-family: 'Alfa Slab One', cursive;
-font-family: 'Bangers', cursive;
-font-family: 'Luckiest Guy', cursive;
-font-family: 'Monoton', cursive;
-font-family: 'Faster One', cursive;
-
- */
 }
 
 #extra-nav{
@@ -108,35 +50,6 @@ font-family: 'Faster One', cursive;
 .wel-viz{
     color: rgb(62, 118, 209);
 }
-
-.mission{
-    font-family: none;
-    font-size: 20px;
-}
-/* End Welcome Section */
-
-/* 2 Section */
-.main-edit{
-    padding-top: 35px;
-}
-.machine{
-    font-family: 'Alfa Slab One', cursive;
-    font-size: 25px;
-    color: rgb(62, 118, 209)
-    
-}
-/* End 2 Section */
-
-/* footer */
-footer{
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: red;
-    color: white;
-    text-align: center;
-}
-
 
 /* mobile styling */
 @media (min-width:576px){
